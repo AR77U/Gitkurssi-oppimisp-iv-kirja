@@ -2,16 +2,16 @@
 
 __Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
 
-Kirjoita tähän vastauksesi
+Saan pidettyä vanhat versiot aina tallessa, jos joku menee pieleen.
 
 __Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehittäjiä?__
 
-Kirjoita tähän vastauksesi
+Saadaan koodi palautettua ja vaihdeltua versioita KUN joku menee pieleen.
 
 __Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
 
-Kirjoita tähän vastauksesi
+Yhteinen etärepo, kaikki koodataan developiin ja pusketaan hyväksynnän jälkeen mainiin, uuden asian parissa työskennellään uudella branchilla.
 
 __Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmäärästä, hyödyllisyydestä, työmäärästä. Mitä toivoisit olevan enemmän, mitä vähemmän?__
 
-Kirjoita tähän vastauksesi
+Opin jotain uutta joten ihan kiva
